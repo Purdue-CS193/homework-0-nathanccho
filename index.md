@@ -1,3 +1,8 @@
+# Nathan Cho's First CS193 Homework
+- Student organized
+- A relaxed class
+- A class meant to help freshmen!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
