@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 
 # Nathan Cho's First CS193 Homework
 - Student organized
